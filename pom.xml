@@ -18,7 +18,7 @@
 		<cxf.version>3.1.4</cxf.version>
 		<jersey2.version>2.22.1</jersey2.version>
 		<jackson-databind.version>2.6.3</jackson-databind.version>
-		<restEasy.version>4.5.7.Final</restEasy.version>
+		<restEasy.version>3.15.2.Final</restEasy.version>
 	</properties>
 
 	<build>
